@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarRental</string>
+    <string name="email" />
+    <string name="username" />
+    <string name="password" />
+    <string name="fullname" />
+</resources>
